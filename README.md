@@ -26,7 +26,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/online-voting-system.git
+git clone https://github.com/https://github.com/Sachinprajapati123/online-voting-system.git
 cd online-voting-system
 Set up the database:
 
@@ -37,7 +37,7 @@ mysql -u yourusername -p yourpassword < database/voting_system.sql
 Update the database configuration in connectivity.php:
 php
 Copy code
-$conn = mysqli_connect("localhost", "yourusername", "yourpassword", "database_name");
+$conn = mysqli_connect("localhost", "https://github.com/Sachinprajapati123", "yourpassword", "database_name");
 Configure the server:
 
 Ensure your Apache server is running and properly configured to serve PHP files.
